@@ -1,6 +1,6 @@
 # 👋 Chào mừng bạn đến với EVTD - Hướng dẫn
 
-* [English Tutorial]()
+* [English Tutorial](./English.md)
 
 # 🚀 Demo
 ![demo_en](./demo.gif)
