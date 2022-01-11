@@ -1,6 +1,9 @@
-
-# [Hướng dẫn sử dụng Tiếng Việt](./Help.md)
+## Make with ❤ by
+* Toan Tran Cong
+* Van Anh Dao Thi 
+* Hieu Nguyen Minh
 # 👋 Welcome to EVTD - LoveGuide
+* [Hướng dẫn sử dụng Tiếng Việt](./Help.md)
 # 🚀 Demo
 ![demo_en](./demo.gif)
 
@@ -38,7 +41,3 @@
 
 ---
  
-## Make with ❤ by
-* Toan Tran Cong
-* Van Anh Dao Thi 
-* Hieu Nguyen Minh
