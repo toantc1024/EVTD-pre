@@ -1,7 +1,6 @@
+
+# [Hướng dẫn sử dụng Tiếng Việt](./Help.md)
 # 👋 Welcome to EVTD - LoveGuide
-
-* [Hướng dẫn sử dụng Tiếng Việt](./Help.md)
-
 # 🚀 Demo
 ![demo_en](./demo.gif)
 
