@@ -34,6 +34,7 @@
 <p align="center">
   <img src="./daily.gif">
 </p>
+
 ---
 ## Make with ❤ by
 * Toan Tran Cong
