@@ -1,8 +1,3 @@
-
-## Hoàn thành với ❤ bởi
-* Toan Tran Cong
-* Van Anh Dao Thi 
-* Hieu Nguyen Minh
 # 👋 Chào mừng bạn đến với hướng dẫn sử dụng EVTD
 * [English Tutorial](./English.md) 
 # 🚀 Demo
@@ -41,4 +36,7 @@
 </p>
 
 ---
-
+## Hoàn thành với ❤ bởi
+* Toan Tran Cong
+* Van Anh Dao Thi 
+* Hieu Nguyen Minh
