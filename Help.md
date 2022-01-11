@@ -3,7 +3,7 @@
 * Toan Tran Cong
 * Van Anh Dao Thi 
 * Hieu Nguyen Minh
-# 👋 Chào mừng bạn đến với Hướng dẫn sử dụng EVTD
+# 👋 Chào mừng bạn đến với hướng dẫn sử dụng EVTD
 
 
 # 🚀 Demo
