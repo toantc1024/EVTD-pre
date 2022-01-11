@@ -1,11 +1,10 @@
- 
+# [English Tutorial](./English.md) 
 ## Hoàn thành với ❤ bởi
 * Toan Tran Cong
 * Van Anh Dao Thi 
 * Hieu Nguyen Minh
 # 👋 Chào mừng bạn đến với Hướng dẫn sử dụng EVTD
 
-* [English Tutorial](./English.md)
 
 # 🚀 Demo
 ![demo_en](./demo.gif)
