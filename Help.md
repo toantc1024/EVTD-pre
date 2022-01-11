@@ -1,3 +1,8 @@
+ 
+## Hoàn thành với ❤ bởi
+* Toan Tran Cong
+* Van Anh Dao Thi 
+* Hieu Nguyen Minh
 # 👋 Chào mừng bạn đến với EVTD - Hướng dẫn
 
 * [English Tutorial](./English.md)
@@ -38,8 +43,4 @@
 </p>
 
 ---
- 
-## Hoàn thành với ❤ bởi
-* Toan Tran Cong
-* Van Anh Dao Thi 
-* Hieu Nguyen Minh
+
