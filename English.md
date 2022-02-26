@@ -3,8 +3,8 @@
 # 🚀 Demo
 ![demo_en](./demo.gif)
 
-# Tutorials
-* Configure dictionary mode before using
+# Tutorials 🎈
+* Configure dictionary mode before using.
 <p align="center">
   <img  src="./feature2.gif">
 </p>
