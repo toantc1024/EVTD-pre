@@ -4,14 +4,14 @@
 ![demo_en](./demo.gif)
 
 # Tutorials
-* Configure dictionary mode before use
+* Configure dictionary mode before using
 <p align="center">
   <img  src="./feature2.gif">
 </p>
 
 ---
-* Double-click the word you want to look up.
-* Press the ```Shift``` & ```click``` buttons on the first and last characters to translate.
+* Double-click on the word you that want to look up.
+* Press ```Shift``` & ```click``` buttons on the first and the last characters to translate  sentence or paragraph.
 
 <p align="center">
   <img src="./feature1.gif">
