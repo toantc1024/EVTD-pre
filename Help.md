@@ -37,8 +37,8 @@
 
 ---
 ## Hoàn thành với ❤ bởi
-* Lam Hong Tu - Contributor
-* Truong Quang Hien - Contributor
-* Toan Tran Cong - Developer
+* Tu Lam Hong - Contributor
+* Hien Truong Quang - Contributor
 * Van Anh Dao Thi - Designer & Presentation
+* Toan Tran Cong - Developer
 * Hieu Nguyen Minh - Developer
