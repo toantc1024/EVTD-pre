@@ -37,6 +37,9 @@
 
 ---
 ## Make with ❤ by
-* Toan Tran Cong
-* Van Anh Dao Thi 
-* Hieu Nguyen Minh
+* Tu Lam Hong - Contributor
+* Hien Truong Quang - Contributor
+* Van Anh Dao Thi - Designer & Presentation
+* Toan Tran Cong - Developer
+* Hieu Nguyen Minh - Developer
+
