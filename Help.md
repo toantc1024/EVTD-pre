@@ -1,5 +1,5 @@
 # 👋 Chào mừng bạn đến với hướng dẫn sử dụng EVTD
-<a href="https://www.buymeacoffee.com/tctoan10245"><img src="https://img.buymeacoffee.com/button-api/?text=Ủng hộ một ly cà phê&emoji=&slug=tctoan10245&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
+<a href="https://www.buymeacoffee.com/tctoan10245"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tctoan10245&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
 Đóng góp của bạn sẽ là một phần động viên to lớn để mình tiếp tục phát triển EVTD. Cảm ơn bạn!
 * [English Tutorial](./English.md) 
 # 🚀 Demo
