@@ -12,15 +12,11 @@
 
 ![QslJ3PktZ1](https://user-images.githubusercontent.com/60417892/181923757-5b550cf0-7949-4b06-8aa4-d9eb0f75fac7.png)
 
-# Hướng dẫn sử dụng
 * Use
 ![chrome_0lGmd2wQZf](https://user-images.githubusercontent.com/60417892/181923844-80f5c0ce-41b6-4c4a-9b27-4e2eea7de81e.gif)
-* Toggle
-* 
 
-## Hoàn thành với ❤ bởi
-*** Tu Lam Hong - Contributor
-* Hien Truong Quang - Contributor
-* Van Anh Dao Thi - Designer & Presentation
-* Toan Tran Cong - Developer
-* Hieu Nguyen Minh - Developer**
+* Toggle
+![chrome_beIlnY4Z7U](https://user-images.githubusercontent.com/60417892/181925015-b81c7937-d2ba-441d-82b3-10a710977b24.gif)
+
+
+![image](https://user-images.githubusercontent.com/60417892/181925626-af25fbdb-7bf2-4338-b0ac-ef79328f995f.png)
