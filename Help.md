@@ -18,5 +18,3 @@
 * Toggle
 ![chrome_beIlnY4Z7U](https://user-images.githubusercontent.com/60417892/181925015-b81c7937-d2ba-441d-82b3-10a710977b24.gif)
 
-
-![image](https://user-images.githubusercontent.com/60417892/181925626-af25fbdb-7bf2-4338-b0ac-ef79328f995f.png)
