@@ -1,3 +1,4 @@
+Nếu quý thầy cô không thể cài được, sử dụng được liên hệ em qua email: thanhnoobs@gmail.com ạ
 
 https://user-images.githubusercontent.com/60417892/188089693-d0e0a05b-c327-490f-aaf5-d4b75a5a6586.mp4
 
